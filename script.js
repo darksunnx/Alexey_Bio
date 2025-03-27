@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     const avatarImg = document.getElementById('avatar');
     const placeholder = document.getElementById('placeholder');
-    const username = 'Al3x_osint';
+    const username = 'Alexandr_Divizion';
 
     // Function to load Telegram profile picture
     function loadTelegramProfilePicture() {
